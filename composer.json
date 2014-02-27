@@ -110,7 +110,7 @@
             "zendframework/zftool": "dev-master",
             "slm/mail": "dev-master",
             "slm/queue-beanstalkd": "dev-master",
-            "slm/queue-sqs": "dev-master",
+            "slm/queue-sqs": "0.3.0-beta1",
             "slm/queue-doctrine": "dev-master",
             "manuakasam/sam-user": "dev-master",
             "stroker/cache": "dev-master",
